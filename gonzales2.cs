@@ -26,6 +26,7 @@ Console.WriteLine("Multiplication: " + (num1 * num2));
 Console.WriteLine("Division: " + (num1 / num2));
 
 Console.WriteLine("no.3");
+Console.WriteLine("Enter Two Numbers");
 double num3 = Convert.ToInt32(Console.ReadLine());
 double num4 = Convert.ToInt32(Console.ReadLine());
 double area = num3 * num4;
