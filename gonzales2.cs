@@ -78,7 +78,7 @@ Console.WriteLine("How Many Hours Worked?: ");
 Double HoursWOrked = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Whats Your Hourly Rate?: ");
 Double HourlyRate = Convert.ToInt32(Console.ReadLine());
-Double Salary = Quan * Price;
+Double Salary = HourlyRate * HoursWOrked;
 Console.WriteLine("Employee: " + EnployeeName  + " Salary IS: " + Salary);
 
 Console.WriteLine("no.10");
