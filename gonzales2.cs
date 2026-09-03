@@ -43,7 +43,7 @@ Console.WriteLine("Your Average Is: " + average);
 Console.WriteLine("no.5");
 Console.WriteLine("Are You A Student?:(True/False) ");
 
-Boolean student = bool.Parse(Console.ReadLine();
+Boolean student = bool.Parse(Console.ReadLine());
 Console.WriteLine("Is Student " + student);
 
 
